@@ -34,7 +34,7 @@ const MainPage = () => {
   const background = useTransform(
     x,
     [-200, 0, 200],
-    ["#000", "#449ecf", "#000"],
+    ["#000", "#449ecf", "#000"]
   );
 
   return (
